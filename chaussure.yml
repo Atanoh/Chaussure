@@ -4,4 +4,8 @@ config:
     - puma
     - Socony
     - Supreme
+<<<<<<< HEAD
     - Babe
+=======
+    - clote
+>>>>>>> newbranch
