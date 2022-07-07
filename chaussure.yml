@@ -4,3 +4,4 @@ config:
     - puma
     - Socony
     - Supreme
+    - clote
